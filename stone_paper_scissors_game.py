@@ -1,5 +1,5 @@
 
-#Stone,Paper,Scissors Game
+#Stone,Paper,Scissors 
 #Developer Name:-Rutuja Dnyaneshwar Sherakar
 #Date:- 09 September 2022
 
